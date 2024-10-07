@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "@dotenvx/dotenvx": "^0.23.0",
+    "@vinctus/oql": "^1.1.31-alpha.1",
     "compression": "^1.7.4",
     "cors": "^2.8.5",
     "dayjs": "^1.10.7",
