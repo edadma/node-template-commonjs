@@ -1,4 +1,3 @@
-//
-;(async () => {
-  console.log('Hello world!')
-})()
+export {}
+
+console.log('Hello world!')

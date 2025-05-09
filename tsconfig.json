@@ -1,7 +1,7 @@
 {
   "compileOnSave": true,
   "compilerOptions": {
-    "module": "nodenext",
+    "module": "ESNext",
     "esModuleInterop": true,
     "noImplicitAny": true,
     "noUnusedLocals": true,
@@ -11,7 +11,7 @@
     "strict": true,
     "moduleResolution": "node",
     "sourceMap": true,
-    "target": "ES2019",
+    "target": "ES2022",
     "outDir": "dist",
     "experimentalDecorators": true,
     "resolveJsonModule": true
